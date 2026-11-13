@@ -1,0 +1,13 @@
+{
+  "1_cubekestrel": "CubeKestrel",
+  "key.cubekestrel.fullbright": "FullBright (Кнопка)",
+  "key.cubekestrel.esp": "PlayerESP (Кнопка)",
+  "key.cubekestrel.xray": "X-Ray (Кнопка)",
+  "key.cubekestrel.trajectories": "Trajectories (Кнопка)",
+  "key.cubekestrel.speed": "Speed (Кнопка)",
+  "key.cubekestrel.jump": "HighJump (Кнопка)",
+  "key.cubekestrel.waterdrop": "AutoWaterDrop (Кнопка)",
+  "key.cubekestrel.autofish": "AutoFish (Кнопка)",
+  "key.cubekestrel.bowaim": "BowAimbot (Кнопка)",
+  "key.cubekestrel.panic": "Паника (Panic)"
+}
