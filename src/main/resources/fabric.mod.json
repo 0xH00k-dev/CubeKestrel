@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "cubekestrel",
+	"version": "${version}",
+	"name": "CubeKestrel",
+	"description": "Lightweight and stealthy client-side cheat for Minecraft (Fabric) featuring a cheat-hiding mode for screen-share checks, auto-calibration for any anticheat, and much more.",
+	"authors": [
+		"0xH00k-dev\n github.com/0xH00k-dev"
+	],
+	"contact": {
+		"homepage": "0xh00k-dev.github.io",
+		"sources": "0xh00k-dev.github.io/cheats/CubeKestrel/index_ru.html"
+	},
+	"license": "All Rights Reserved",
+	"icon": "assets/cubekestrel/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.cubekestrel.CubeKestrel"
+		]
+	},
+	"mixins": [
+		"cubekestrel.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

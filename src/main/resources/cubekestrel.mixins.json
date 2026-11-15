@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "package": "com.cubekestrel.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "KeyBindingMixin",
+    "ControlsListWidgetMixin",
+    "KeybindsScreenMixin",
+    "MinecraftClientMixin",
+    "BackgroundRendererMixin",
+    "BlockMixin",
+    "AbstractBlockStateMixin",
+    "BlockRenderManagerMixin",
+    "RenderLayersMixin",
+    "ClientConnectionMixin",
+    "FabricLoaderMixin",
+    "ModListWidgetMixin",
+    "GameOptionsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
